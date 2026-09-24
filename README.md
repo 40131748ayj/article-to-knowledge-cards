@@ -100,4 +100,4 @@ python -X utf8 <skill-creator目录>/scripts/quick_validate.py skills/make-knowl
 
 多类型材料的人工试运行、输出和迭代记录见 [tests/manual-tests.md](tests/manual-tests.md)。结构验证不等于生成质量保证。
 
-本项目已完成本地开发与 Git 仓库初始化，尚未上传 GitHub。
+项目已发布至 GitHub：[article-to-knowledge-cards](https://github.com/40131748ayj/article-to-knowledge-cards)，使用 MIT 许可证。
